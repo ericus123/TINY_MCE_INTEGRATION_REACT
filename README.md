@@ -39,4 +39,4 @@ To test this, you can :
 - Visit the app on localhost url
 - You should see see TinyMCE rich text editor displayed
 
-You can read more on my blog post [here](https://www.amanieric.com/blog/post/609d46c0537bf4002ca950ba/how-to-integrate-a-rich-text-editor-in-react)
+You can read more on my blog post [here](https://www.amanieric.com/blog/how-to-integrate-a-rich-text-editor-in-react)
